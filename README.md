@@ -1,7 +1,7 @@
 # Google Chat Appointment Scheduler with Dialogflow Codelab
 
 This repository contains the codelab for the G Suite Appointment Scheduler demo. For full instructions
-please follow the codelab [here](https://docs.google.com/document/d/1grAlcFVNLUrZUFAPZsU0uJCz3a7gZO2kA0bZIhkGVwg/edit#).
+please follow the codelab [here](https://codelabs.developers.google.com/codelabs/chatbots-dialogflow-hangouts/#0).
 
 # Pre-requisites
 
